@@ -3,7 +3,9 @@
   "type": "containerized",
   "blockId": "7w_qMFGd0_wzS9WJg4J44",
   "source": {
-    "branch": "block_test_conatainer"
+    "branch": "block_test_conatainer",
+    "ssh": "git@github.com:grgshiji/test_conatainer.git",
+    "https": "https://github.com/grgshiji/test_conatainer.git"
   },
   "parentBlockIDs": [],
   "isPublic": true,
