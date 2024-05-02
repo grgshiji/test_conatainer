@@ -1,0 +1,21 @@
+{
+  "name": "test_conatainer",
+  "type": "containerized",
+  "blockId": "7w_qMFGd0_wzS9WJg4J44",
+  "source": {
+    "branch": "block_test_conatainer",
+    "ssh": "git@github.com:grgshiji/test_conatainer.git",
+    "https": "https://github.com/grgshiji/test_conatainer.git"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "ruby",
+  "dependencies": {},
+  "version": "0.0.2",
+  "variantOf": "UVsmiRmDw47vyRAhymktu",
+  "variantOfBlockId": "x502C4AknWO3aCzyg2X1_"
+}
